@@ -83,7 +83,7 @@ CNN ensemble (**DenseNet121 + ResNet50 + EfficientNet-B0**) in TensorFlow & PyTo
 <tr>
 <td width="50%">
 
-#### 🤖 [MTH 409 Chatbot Project](https://github.com/cagrigoksel/MTH-409-Chatbot-Projesi---Bican-Cagri-Goksel--090200352)
+#### 🤖 [generative-ai-chatbot](https://github.com/cagrigoksel/generative-ai-chatbot)
 Generative AI–powered chatbot developed as ITU term project for the Fundamentals of Chatbot Development with Generative AI course.
 
 `Python` `NLP` `Generative AI`
